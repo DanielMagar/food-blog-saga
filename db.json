@@ -1,0 +1,36 @@
+{
+  "foodItems": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "category": "Italian",
+      "price": 120.99,
+      "imgUrl": "https://cdn.pixabay.com/photo/2022/01/19/07/18/pizza-6948995_1280.png",
+      "ratings": 3
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "category": "Fast Food",
+      "price": 89.99,
+      "imgUrl": "https://cdn.pixabay.com/photo/2013/07/12/16/53/burger-151421_1280.png",
+      "ratings": 4
+    },
+    {
+      "id": 3,
+      "name": "Sushi",
+      "category": "Japanese",
+      "price": 200.60,
+      "imgUrl": "https://cdn.pixabay.com/photo/2023/08/12/02/56/sushi-8184633_1280.png",
+      "ratings": 5
+    },
+    {
+      "id": 4,
+      "name": "Pasta",
+      "category": "Italian",
+      "price": 100.99,
+      "imgUrl": "https://cdn.pixabay.com/photo/2014/12/21/23/56/pasta-576417_1280.png",
+      "ratings": 4
+    }
+  ]
+}
